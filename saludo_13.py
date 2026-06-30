@@ -1,0 +1,4 @@
+# ESCRIBIR UNA FUNCION QUE MUESTRE POR PANTALLA EL SALUDO !HOLA AMIGO! CADA VEZ QUE SE LA INVOQUE.
+def saludo():
+    print("¡Hola amigo!")
+saludo()
